@@ -61,7 +61,7 @@ This project aims to analyze employee performance based on various factors and d
 
 ## Feedback
 
-Your feedback is valuable! If you have any suggestions or questions, please don't hesitate to open an issue or contact me at [your-tanmaykalbande@gmail.com].
+Your feedback is valuable! If you have any suggestions or questions, please don't hesitate to open an issue or contact me at [tanmaykalbande@gmail.com].
 
 ## License
 
